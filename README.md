@@ -1,8 +1,8 @@
 # UI-UX-Experiment5
 
-# Name: Sushiendar M
+# Name: ROHAN J
 
-# Register Number: 212223040217
+# Register Number: 212223040171
 
 ## Aim:
 
